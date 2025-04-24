@@ -1,4 +1,5 @@
 loadstring(game:HttpGet("http://vpaste.net/uBMsl"))()
+
 local screenGui = Instance.new("ScreenGui")
 screenGui.Parent = game:GetService("CoreGui")
 
